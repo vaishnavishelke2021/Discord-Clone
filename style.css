@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* whitney ============== */
+
+@font-face {
+    font-family: Whitney;
+    src: url(/fonts/Whitney/Whitney-400.woff) format(woff);
+}
+
+@font-face {
+    font-family: Ginto;
+    src: url(./fonts/Ginto/Ginto-400.woff) format("woff");
+}
+
+
+
+/* ggSans ======================================== */
+
+@font-face {
+    font-family: ggSansMedium;
+    src: url(./fonts/gg-sans/ggsans-Medium.ttf) format("woff");
+}
+
+@font-face {
+    font-family: ggSansNormal;
+    src: url(./fonts/gg-sans/ggsans-Normal.ttf) format("woff");
+}
+
+@font-face {
+    font-family: ggSansBold;
+    src: url(./fonts/gg-sans/ggsans-Semibold.ttf) format("woff");
+}
+
+
+
+
+@font-face {
+    font-family: Gintonord;
+    src: url(./fonts/Ginto-Nord/Ginto-Nord-700.woff);
+}
